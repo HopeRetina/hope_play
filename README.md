@@ -1,2 +1,2 @@
 # hope_play
-This will be the home to my CV related projects.
+This is a collection of my practice scripts.
